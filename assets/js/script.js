@@ -1,3 +1,9 @@
+
+document.addEventListener("DOMContentListener", function() {
+    let buttons = document.getElementsByTagName("button");
+
+})
+ 
  function runGame() {
 
  }
